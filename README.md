@@ -7,3 +7,5 @@ Estruturando sua aplicação no modelo MVC
 Programando assincronamente com promises
 Utilizando padrões de projeto
 Implementando uma solução de data binding
+Apredendo IndexDB
+Criando cache...
