@@ -7,5 +7,8 @@ Estruturando sua aplicação no modelo MVC
 Programando assincronamente com promises
 Utilizando padrões de projeto
 Implementando uma solução de data binding
-Apredendo IndexDB
-Criando cache...
+Armazenar dados offline com IndexedDB
+Fetch API
+Babel e garanta compatibilidade máxima de seu código
+Entendendo as vantagens do ECMASCRIPT 2015 (ES2015) modules
+Tornando o código ainda mais elegante com novos padrões de projeto
